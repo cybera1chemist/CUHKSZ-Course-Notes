@@ -1,6 +1,6 @@
 # 1. Introduction
 
-![alt text](image-1.png)
+![alt text](Images/1-plan.png)
 
 ## About the Course
 
@@ -8,7 +8,7 @@ Instructor: 李镇
 
 ### Reference Textbooks:
 
-![alt text](image.png)
+![alt text](Images/1-books.png)
 
 ### Grading:
 
